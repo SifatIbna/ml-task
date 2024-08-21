@@ -92,7 +92,7 @@ evaluate_model(y_train, rf_train_pred, "Random Forest")
 print("Test Set Results:")
 evaluate_model(y_test, lr_test_pred, "Linear Regression")
 evaluate_model(y_test, gb_test_pred, "Gradient Boosting")
-evaluate_model(y_test, gb_test_pred, "Gradient Boosting")
+evaluate_model(y_test, rf_test_pred, "Random Forest")
 
 
 # Cross-validation

@@ -10,13 +10,13 @@ The API uses the "finiteautomata/bertweet-base-sentiment-analysis" model, which 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sentiment-analysis-api.git
-   cd sentiment-analysis-api
+   git clone https://github.com/SifatIbna/ml-task.git
+   cd text_classification_api
    ```
 
 2. Create a virtual environment and activate it:
    ```
-   python -m venv venv
+   python -m venv venv # On linux, use, `python3 -m venv venv`
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 

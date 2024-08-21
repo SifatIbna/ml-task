@@ -74,7 +74,8 @@ We implemented and compared three models:
   - RMSE: 26,543.01
   - R² Score: 0.9081
 - Random Forest:
-  - (Note: Random Forest test results are missing in the provided output)
+  - RMSE: 29501.667554467087
+   - R² Score: 0.8865304597242845
 
 ### Cross-validation RMSE:
 - Linear Regression: 353,960,893,143,689.0 (+/- 956,674,261,413,069.9)
